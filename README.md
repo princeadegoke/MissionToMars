@@ -1,2 +1,0 @@
-# MissionToMars
-Web Scraping MongoDB
